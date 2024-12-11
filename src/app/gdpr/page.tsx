@@ -1,5 +1,5 @@
 
-// src/app/podmienky/page.tsx
+// src/app/gdpr/page.tsx
 
 
 import Typography  from "@mui/material/Typography";
