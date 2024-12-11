@@ -1,4 +1,4 @@
-// src/app/o-mne/page.tsx
+// src/app/o-nas/page.tsx
 
 
 import Typography from "@mui/material/Typography";
